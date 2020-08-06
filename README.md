@@ -8,7 +8,7 @@ circulation supply 200k
 max supply 800k
 
 
-[TWITTER](https://www.twitter.com/stack_fi)
+[twitter](https://www.twitter.com/stack_fi)
 
 
 trade on bamboorelay:
