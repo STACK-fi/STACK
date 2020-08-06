@@ -8,7 +8,7 @@ circulation supply 200k
 max supply 800k
 
 
-twitter twitter.com/stack_fi
+twitter <link src= "https://twitter.com/stack_fi>
 
 trade on bamboorelay:
 
