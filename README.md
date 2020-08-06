@@ -10,7 +10,7 @@ height="21"> **STACK-fi**
 **max supply:** 800k
 
 
-**[twitter]**(https://www.twitter.com/stack_fi)
+**[twitter](https://www.twitter.com/stack_fi)**
 
 
 **trade on bamboorelay:**
