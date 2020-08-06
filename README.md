@@ -2,11 +2,16 @@
 height="21"> STACK-fi               
 
 contract address: 
+
 circulation supply 200k
+
 max supply 800k
+
+
 twitter twitter.com/stack_fi
 
 trade on bamboorelay:
+
 trade on uniswap:
 
 
